@@ -1,4 +1,4 @@
-hello git!
+hello git! new message!
 hello git!
 hello git!
 hello git!
